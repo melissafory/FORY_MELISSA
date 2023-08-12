@@ -1,2 +1,2 @@
-package com.backend.integrador.dao;public interface IDao {
+package com.backend.integrador.dao.impl;public interface IDao {
 }
